@@ -1,0 +1,6 @@
+
+### `.gitignore`
+
+```plaintext
+# Node modules
+node_modules/
